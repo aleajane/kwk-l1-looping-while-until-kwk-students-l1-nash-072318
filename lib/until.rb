@@ -6,5 +6,6 @@ def using_until
     puts "#{levitation_force}"
     levitation_force+=1 
 end
+end 
 
 using_until
